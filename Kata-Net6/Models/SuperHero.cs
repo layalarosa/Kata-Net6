@@ -1,4 +1,4 @@
-﻿namespace Kata_Net6.Model
+﻿namespace Kata_Net6.Models
 {
     public class SuperHero
     {

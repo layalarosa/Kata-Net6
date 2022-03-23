@@ -1,4 +1,4 @@
-﻿using Kata_Net6.Model;
+﻿using Kata_Net6.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
